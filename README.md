@@ -208,12 +208,6 @@ Computer-Electronics-Sales-Dashboard/
 
 ---
 
-## 📷 Dashboard Preview
-
-Add a screenshot of the completed dashboard below:
-
-![Computer & Electronics Sales Dashboard](Screenshots/dashboard.png)
-
 ---
 
 ## 📌 Project Outcome
